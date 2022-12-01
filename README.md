@@ -6,7 +6,7 @@
 </div>
 ### :woman_technologist: About Me :
 I am a full time cybersecurity student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
-telescope: I’m working as an instructional aide/social studies teacher for an elementary school.
+- :telescope: I’m working as an instructional aide/social studies teacher for an elementary school.
 - :seedling: Exploring cybersecurity
 
 - :zap: In my free time, I like to paint or watch stuff.
